@@ -21,11 +21,10 @@ npm install
 ```
 Create database tables located in migrations folder
 ```
-```
+
 
 ## Run
 
-```
 ```
 npm run nodemon
 ```
