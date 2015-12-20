@@ -29,6 +29,7 @@ Create database tables located in migrations folder
 ```
 npm run nodemon
 ```
+```
 sample usage: http://localhost:3000/api/peos?coutry=US&minSize=1&maxSize=20
 ```
 
